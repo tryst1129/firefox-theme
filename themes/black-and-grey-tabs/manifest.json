@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "functional_black",
+  "name": "gnome black",
   "theme": {
     "images": {},
     "properties": {},
