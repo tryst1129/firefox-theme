@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "Minimalist Black and Grey Tabs",
+  "name": "Custom",
   "theme": {
     "images": {},
     "properties": {},
@@ -36,7 +36,6 @@
       "toolbar_field_focus": "rgb(0, 0, 0)",
       "toolbar_field_highlight_text": "rgb(255, 255, 255)",
       "toolbar_field_highlight": "rgb(37, 37, 37)",
-      "toolbar_field_separator": "rgb(0, 0, 0)",
       "toolbar_field_text_focus": "rgb(255, 255, 255)",
       "toolbar_top_separator": "rgb(0, 0, 0)",
       "toolbar_vertical_separator": "rgb(0, 0, 0)"
